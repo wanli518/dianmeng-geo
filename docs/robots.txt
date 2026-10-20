@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wanli518.github.io/dianmeng-geo/sitemap.xml
